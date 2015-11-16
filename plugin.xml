@@ -5,7 +5,7 @@
 
   <name>AlipayPlugin</name>
   <license>MIT license</license>
-  <description>支付宝支付插件，alipay payment</description>
+  <description>支付宝支付插件，xiaobu payment</description>
   <keywords>alipay, payment</keywords>
   <repo>https://github.com/charleyw/cordova-plugin-alipay</repo>
   <issue>https://github.com/charleyw/cordova-plugin-alipay/issues</issue>
